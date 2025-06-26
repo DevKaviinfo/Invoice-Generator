@@ -48,22 +48,31 @@ Built with Bootstrap 4 and designed for easy customization, it's ideal for freel
 ## ⚙️ Installation
 
 1. **Clone the repository**
+
    ```bash
     git clone https://github.com/DevKaviinfo/Invoice-Generator.git
     cd Invoice-Generator
 
 2. **Install dependencies**
+
    ```bash
     composer install
 
 3. **Set up environment**
+
    ```bash
     cp .env.example .env
     php artisan key:generate
 
-4. **Run the application**
+4. **Migrate**
+
+   ```bash
+    php artisan migrate
+
+5. **Run the application**
+
    ```bash
     php artisan serve
 
-5. **Visit: http://localhost:8000**
+6. **Visit: http://localhost:8000**
 
