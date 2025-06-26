@@ -39,7 +39,7 @@ Built with Bootstrap 4 and designed for easy customization, it's ideal for freel
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevKaviinfo/Invoice-Generator/main/public/invoice-preview.png" alt="Invoice Preview" width="700">
+  <img src="https://github.com/DevKaviinfo/Invoice-Generator/tree/main/sampleimage/image.png" alt="Invoice Preview" width="700">
 </p>
 
 > *(Replace with your actual invoice image if needed)*
